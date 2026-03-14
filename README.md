@@ -1,0 +1,3 @@
+﻿# HouseholdData
+
+Initial README.
